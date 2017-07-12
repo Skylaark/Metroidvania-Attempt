@@ -1,0 +1,161 @@
+fileFormatVersion: 2
+guid: c04889bfb4f716046a5e487e35b0c039
+timeCreated: 1499823674
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Face
+    100002: gunBelly
+    100004: HIPS_DON_T_LIE
+    100006: Left_Cheek
+    100008: Left_Collarbone
+    100010: Left_Head
+    100012: Lower_Chest
+    100014: Lower_Left_sidePlating
+    100016: Lower_Right_sidePlating
+    100018: Nek
+    100020: //RootNode
+    100022: Right_Cheek
+    100024: Right_Collarbone
+    100026: Right_Head
+    100028: Upper_Chest
+    100030: Upper_Left_sidePlating
+    100032: Upper_Right_sidePlating
+    400000: Face
+    400002: gunBelly
+    400004: HIPS_DON_T_LIE
+    400006: Left_Cheek
+    400008: Left_Collarbone
+    400010: Left_Head
+    400012: Lower_Chest
+    400014: Lower_Left_sidePlating
+    400016: Lower_Right_sidePlating
+    400018: Nek
+    400020: //RootNode
+    400022: Right_Cheek
+    400024: Right_Collarbone
+    400026: Right_Head
+    400028: Upper_Chest
+    400030: Upper_Left_sidePlating
+    400032: Upper_Right_sidePlating
+    2300000: Face
+    2300002: gunBelly
+    2300004: HIPS_DON_T_LIE
+    2300006: Left_Cheek
+    2300008: Left_Collarbone
+    2300010: Left_Head
+    2300012: Lower_Chest
+    2300014: Lower_Left_sidePlating
+    2300016: Lower_Right_sidePlating
+    2300018: Nek
+    2300020: Right_Cheek
+    2300022: Right_Collarbone
+    2300024: Right_Head
+    2300026: Upper_Chest
+    2300028: Upper_Left_sidePlating
+    2300030: Upper_Right_sidePlating
+    3300000: Face
+    3300002: gunBelly
+    3300004: HIPS_DON_T_LIE
+    3300006: Left_Cheek
+    3300008: Left_Collarbone
+    3300010: Left_Head
+    3300012: Lower_Chest
+    3300014: Lower_Left_sidePlating
+    3300016: Lower_Right_sidePlating
+    3300018: Nek
+    3300020: Right_Cheek
+    3300022: Right_Collarbone
+    3300024: Right_Head
+    3300026: Upper_Chest
+    3300028: Upper_Left_sidePlating
+    3300030: Upper_Right_sidePlating
+    4300000: HIPS_DON_T_LIE
+    4300002: gunBelly
+    4300004: Lower_Left_sidePlating
+    4300006: Lower_Right_sidePlating
+    4300008: Upper_Left_sidePlating
+    4300010: Upper_Right_sidePlating
+    4300012: Lower_Chest
+    4300014: Upper_Chest
+    4300016: Left_Collarbone
+    4300018: Right_Collarbone
+    4300020: Nek
+    4300022: Face
+    4300024: Right_Cheek
+    4300026: Left_Cheek
+    4300028: Left_Head
+    4300030: Right_Head
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
